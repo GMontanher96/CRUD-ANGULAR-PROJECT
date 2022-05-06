@@ -1,26 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Azul",
-      "price": 5.89
-    },
-    {
-      "id": 2,
-      "name": "Notebook ACER Aspire",
-      "price": 12000.2
-    },
-    {
-      "id": 3,
-      "name": "Caneta BIC Azul",
-      "price": 5000.89
-    },
-    {
-      "name": "Geladeira",
-      "price": "1500.25",
-      "id": 4
-    },
-    {
       "name": "Produto de teste",
       "price": 125.98,
       "id": 5
@@ -44,6 +24,16 @@
       "name": "celio",
       "price": "1",
       "id": 9
+    },
+    {
+      "name": "1",
+      "price": "012",
+      "id": 11
+    },
+    {
+      "name": "teste",
+      "price": "333",
+      "id": 12
     }
   ]
 }
